@@ -15,12 +15,12 @@ git remote -v
 git status
 
  git push orngin main
-hmmm....
+
 
  // for clone form github to local
  git clone <url of code>
 
  // for git to git 
  we should use fork
- 
-xi
+
+this is change 1st...
