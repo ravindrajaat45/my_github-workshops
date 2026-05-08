@@ -1,19 +1,26 @@
 git init
-git add main.py
-git commit -m "added main files"
+
+
+
+for staged to file >>>>>     git add main.py
+for unstaged to file >>>     git rm --cached main.py
+for track a file >>>>>>>     git commit -m "added main files"
+for restore to file >>>>     git restore main.py
+
+
+
+
+
+
 git status
 git log
-git rm --cached main.py
 git commit -m "added main files
 rm main.py
-git restore main.py
 git push
 
+git remote add orngin 
 
-git remote add orngin https://github.com/ravindrajaat45/my_github-workshops.git (fetch)
-git remote -v
-git status
-
+git remote set-url orngin https://<presonal accses token>/ravindrajaat45/my_github-workshops.git
  git push orngin main
  
 
@@ -22,5 +29,3 @@ git status
 
  // for git to git 
  we should use fork
- 
---->>> Hy..! new chnage here..!!
