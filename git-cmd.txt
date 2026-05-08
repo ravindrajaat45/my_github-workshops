@@ -29,5 +29,9 @@ git remote set-url orngin https://<presonal accses token>/ravindrajaat45/my_gith
 
  // for git to git 
  we should use fork
+<<<<<<< HEAD
 
 This is change 2nd!...
+=======
+fi
+>>>>>>> 7843b7b (update)
