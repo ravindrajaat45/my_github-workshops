@@ -1,0 +1,26 @@
+git init
+git add main.py
+git commit -m "added main files"
+git status
+git log
+git rm --cached main.py
+git commit -m "added main files
+rm main.py
+git restore main.py
+git push
+
+
+git remote add orngin https://github.com/ravindrajaat45/my_github-workshops.git (fetch)
+git remote -v
+git status
+
+ git push orngin main
+ 
+
+ // for clone form github to local
+ git clone <url of code>
+
+ // for git to git 
+ we should use fork
+ 
+--->>> Hy..! new chnage here..!!
